@@ -1,0 +1,865 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"urs",
+				"cursor"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"com",
+				"component"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"inline",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 845,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "j/GeoScanecks/controller/GeoScanecks.js",
+			"settings":
+			{
+				"buffer_size": 3106,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "j/app.js",
+			"settings":
+			{
+				"buffer_size": 233,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "j/GeoScanecks/model/GeoModel.js",
+			"settings":
+			{
+				"buffer_size": 288,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "j/GeoScanecks/model/TimeLineModel.js",
+			"settings":
+			{
+				"buffer_size": 275,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "j/GeoScanecks/store/GeoStore.js",
+			"settings":
+			{
+				"buffer_size": 287,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "j/GeoScanecks/store/TimelineStore.js",
+			"settings":
+			{
+				"buffer_size": 721,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "j/GeoScanecks/project.sublime-project",
+			"settings":
+			{
+				"buffer_size": 243,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "j/GeoScanecks/view/MapView.js",
+			"settings":
+			{
+				"buffer_size": 1173,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "j/GeoScanecks/view/TimeLine.js",
+			"settings":
+			{
+				"buffer_size": 1903,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "j/GeoScanecks/view/window1.js",
+			"settings":
+			{
+				"buffer_size": 174,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/inetpub/ext js/geoService",
+		"/C/inetpub/ext js/geoService/c",
+		"/C/inetpub/ext js/geoService/c/GeoScanecks",
+		"/C/inetpub/ext js/geoService/j",
+		"/C/inetpub/ext js/geoService/j/ext-4",
+		"/C/inetpub/ext js/geoService/j/GeoScanecks",
+		"/C/inetpub/ext js/EstelAdoni/app",
+		"/C/inetpub/ext js/EstelAdoni/app/collections",
+		"/C/inetpub/ext js/EstelAdoni/app/controllers",
+		"/C/inetpub/ext js/EstelAdoni/app/models",
+		"/C/inetpub/ext js/EstelAdoni/app/templates",
+		"/C/inetpub/ext js/EstelAdoni/app/templates/brands",
+		"/C/inetpub/ext js/EstelAdoni/app/templates/home",
+		"/C/inetpub/ext js/EstelAdoni/app/templates/repos",
+		"/C/inetpub/ext js/EstelAdoni/app/templates/users",
+		"/C/inetpub/ext js/EstelAdoni/app/views",
+		"/C/inetpub/ext js/EstelAdoni/app/views/brands",
+		"/C/inetpub/ext js/EstelAdoni/app/views/home",
+		"/C/inetpub/ext js/EstelAdoni/app/views/repos",
+		"/C/inetpub/ext js/EstelAdoni/app/views/users"
+	],
+	"file_history":
+	[
+		"/C/inetpub/ext js/EstelAdoni/app/collections/repos.js",
+		"/C/inetpub/ext js/EstelAdoni/app/collections/brands.js",
+		"/C/inetpub/ext js/geoService/j/ext-4/bootstrap.js",
+		"/C/inetpub/ext js/geoService/j/ext-4/ext-all-debug.css",
+		"/C/inetpub/ext js/geoService/j/app.js",
+		"/C/inetpub/ext js/geoService/j/GeoScanecks/controller/GeoScanecks.js",
+		"/C/inetpub/ext js/EstelAdoni/app/models/brand.js",
+		"/C/inetpub/ext js/EstelAdoni/app/templates/brands/index.hbs",
+		"/C/inetpub/ext js/EstelAdoni/app/templates/home/index.hbs",
+		"/C/inetpub/ext js/EstelAdoni/app/templates/compiledTemplates.js",
+		"/C/inetpub/ext js/EstelAdoni/app/routes.js",
+		"/C/inetpub/ext js/EstelAdoni/app/views/brands/index.js",
+		"/C/inetpub/ext js/EstelAdoni/app/controllers/brands_controller.js",
+		"/C/inetpub/ext js/EstelAdoni/app/collections/base.js",
+		"/C/inetpub/ext js/EstelAdoni/app/collections/users.js",
+		"/C/inetpub/ext js/EstelAdoni/app/controllers/repos_controller.js",
+		"/C/inetpub/ext js/EstelAdoni/app/templates/__layout.hbs",
+		"/C/inetpub/ext js/EstelAdoni/app/controllers/users_controller.js",
+		"/C/inetpub/ext js/EstelAdoni/app/app.js",
+		"/C/inetpub/ext js/EstelAdoni/app/controllers/home_controller.js",
+		"/C/inetpub/ext js/EstelAdoni/app/templates/users/index.hbs",
+		"/C/inetpub/ext js/EstelAdoni/app/templates/repos/index.hbs",
+		"/C/inetpub/ext js/firstBackbone/index.html",
+		"/C/inetpub/ext js/EstelAdoni/test/app/models/user.test.js",
+		"/C/inetpub/ext js/geoService/j/GeoScanecks/store/TimelineStore.js",
+		"/C/inetpub/ext js/geoService/index.html",
+		"/C/inetpub/ext js/index__.php",
+		"/C/inetpub/ext js/EstelAdoni/test/app/views/users_show_view.test.js",
+		"/C/inetpub/ext js/EstelAdoni/app/router.js",
+		"/C/inetpub/ext js/EstelAdoni/app/models/user.js",
+		"/C/inetpub/ext js/geoService/j/GeoScanecks/view/TimeLine.js",
+		"/C/inetpub/ext js/geoService/c/GeoScanecks/style.css",
+		"/C/inetpub/ext js/geoService/j/GeoScanecks/store/GeoStore.js",
+		"/C/inetpub/ext js/geoService/j/GeoScanecks/model/TimeLineModel.js",
+		"/C/inetpub/ext js/EstelAdoni/app/views/home/index.js",
+		"/C/inetpub/ext js/EstelAdoni/index.js",
+		"/C/inetpub/ext js/EstelAdoni/Gruntfile.js",
+		"/C/inetpub/ext js/EstelAdoni/00_simple/test/app/views/users_show_view.test.js",
+		"/C/inetpub/ext js/EstelAdoni/00_simple/test/app/collections/repos.test.js",
+		"/C/inetpub/ext js/EstelAdoni/00_simple/test/app/models/user.test.js",
+		"/C/inetpub/ext js/EstelAdoni/00_simple/Gruntfile.js",
+		"/C/inetpub/ext js/EstelAdoni/00_simple/test/karma.config.js",
+		"/C/inetpub/ext js/EstelAdoni/00_simple/index.js",
+		"/C/inetpub/ext js/geoService/j/GeoScanecks/view/MapView.js",
+		"/C/inetpub/ext js/geoService/j/GeoScanecks/view/window1.js",
+		"/C/inetpub/ext js/geoService/j/GeoScanecks/model/GeoModel.js",
+		"/C/inetpub/ext js/testProject3/index.html",
+		"/C/inetpub/ext js/testProject3/app.js",
+		"/C/inetpub/ext js/testProject3/styles/style.css",
+		"/C/inetpub/ext js/geoService/c/loomoon/style.css",
+		"/C/inetpub/ext js/geoService/j/GeoScanecks/store/TimeLineStore.js",
+		"/C/inetpub/ext js/testProject3/app/view/viewBox.js",
+		"/C/inetpub/ext js/testProject3/app/view/viewList.js",
+		"/C/inetpub/ext js/testProject3/app/view/FormAddNewImg.js",
+		"/C/inetpub/ext js/geoService/j/GeoScanecks/view/container.js",
+		"/C/inetpub/ext js/geoService/j/GeoScanecks/view/userInfo.js",
+		"/C/inetpub/ext js/geoService/data/geo.json",
+		"/C/inetpub/ext js/geoService/data/users.json",
+		"/C/inetpub/ext js/geoService/j/Loomoon/controller/Loomoon.js",
+		"/C/inetpub/ext js/geoService/j/Loomoon/view/MapView.js",
+		"/C/inetpub/ext js/geoService/j/Loomoon/view/userInfo.js",
+		"/C/inetpub/ext js/geoService/j/Loomoon/controller/GeoScanecks.js",
+		"/C/inetpub/ext js/geoService/j/Loomoon/user/user.js",
+		"/C/inetpub/ext js/geoService/j/Loomoon/view/container.js",
+		"/C/inetpub/ext js/geoService/j/Loomoon/view/window1.js",
+		"/C/inetpub/ext js/geoService/j/Loomoon/view/authPage.js",
+		"/C/inetpub/ext js/geoService/geo.sublime-project",
+		"/C/inetpub/ext js/loomoon/loomoon.sublime-project",
+		"/C/inetpub/ext js/loomoon/j/app.js",
+		"/C/inetpub/ext js/loomoon/j/Loomoon/view/container.js",
+		"/C/inetpub/ext js/loomoon/j/Loomoon/controller/Loomoon.js",
+		"/C/inetpub/ext js/loomoon/index.html",
+		"/C/inetpub/ext js/loomoon/j/Loomoon/view/authPage.js",
+		"/C/inetpub/ext js/loomoon/j/Loomoon/view/window1.js",
+		"/C/inetpub/ext js/loomoon/j/Loomoon/user/user.js",
+		"/C/inetpub/ext js/testMenuForYour/j/MenuForYour/controller/MenuForYour.js",
+		"/C/inetpub/ext js/testMenuForYour/j/MenuForYour/view/Container.js",
+		"/C/inetpub/ext js/testMenuForYour/j/MenuForYour/view/FormAdd.js",
+		"/C/Users/дима/AppData/Local/Temp/Rar$DI01.169/FormAdd.js",
+		"/C/Users/дима/AppData/Local/Temp/Rar$DI00.123/Table.js",
+		"/C/Users/дима/AppData/Local/Temp/Rar$DI00.580/FormAdd.js",
+		"/C/Бизнесс/бизнес/работа/портфолио/2reallife/FB.js",
+		"/C/inetpub/ext js/timetobe/j/exgods2/app/view/social/socialVoting/Vote.js",
+		"/C/Users/дима/Downloads/Vote.js",
+		"/C/inetpub/ext js/testMenuForYour/c/MenuForYour/style.css",
+		"/C/inetpub/ext js/testMenuForYour/j/MenuForYour/store/MenuStore.js",
+		"/C/inetpub/ext js/testMenuForYour/j/MenuForYour/model/MenuModel.js",
+		"/C/inetpub/ext js/testMenuForYour/j/MenuForYour/view/Table.js",
+		"/C/inetpub/ext js/testMenuForYour/j/MenuForYour/view/TopPanelNavigation.js",
+		"/C/inetpub/ext js/testMenuForYour/j/MenuForYour/view/Window1.js",
+		"/C/inetpub/ext js/loomoon/j/loomoon/controller/Loomoon.js",
+		"/C/inetpub/ext js/testMenuForYour/index.html",
+		"/C/inetpub/ext js/testMenuForYour/j/MenuForYour/view/window1.js",
+		"/C/inetpub/ext js/loomoon/j/Loomoon/view/userInfo.js",
+		"/C/inetpub/ext js/loomoon/j/Loomoon/view/form/base/fields.js",
+		"/C/inetpub/ext js/loomoon/c/loomoon/style.css",
+		"/C/inetpub/ext js/testMenuForYour/j/MenuForYour/view/formAdd.js",
+		"/C/inetpub/ext js/timetobe/с/exgods/deco/windeco.css",
+		"/C/inetpub/ext js/timetobe/с/exgods/override.css",
+		"/C/inetpub/ext js/loomoon/j/loomoon/view/container.js",
+		"/C/inetpub/ext js/loomoon/j/loomoon/view/window1.js",
+		"/C/inetpub/ext js/testMenuForYour/j/MenuForYour/store/menuStore.js",
+		"/C/inetpub/ext js/loomoon/j/loomoon/controller/MenuForYour.js",
+		"/C/inetpub/ext js/loomoon/j/loomoon/store/menuStore.js",
+		"/C/inetpub/ext js/loomoon/j/loomoon/model/MenuModel.js",
+		"/C/inetpub/gantely/Gruntfile.js",
+		"/C/inetpub/gantely/index.php",
+		"/C/inetpub/ext js/testMenuForYour/j/app.js",
+		"/C/Users/дима/AppData/Local/Temp/Rar$DI02.497/container.js",
+		"/C/Users/дима/AppData/Local/Temp/Rar$DI03.469/app.js",
+		"/C/inetpub/ext js/testMenuForYour/j/MenuForYour/view/container.js",
+		"/C/inetpub/ext js/testMenuForYour/j/MenuForYour/view/table.js",
+		"/C/inetpub/ext js/testMenuForYour/j/MenuForYour/view/topPanelNavigation.js",
+		"/C/inetpub/ext js/testProject3/app/controller/ImagesCtr.js",
+		"/C/Users/дима/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/C/inetpub/ext js/testProject3/app/store/imagesStore.js",
+		"/C/inetpub/ext js/testFirstEx/app/store/imagesStore.js",
+		"/C/inetpub/ext js/testProject3/app/model/FileShow.js",
+		"/C/inetpub/ext js/testProject3/app/view/WindowAddImg.js",
+		"/C/inetpub/ext js/timetobe/j/exgods2/app/controller/battle/BattleView.js",
+		"/C/inetpub/ext js/timetobe/j/exgods2/app/view/market/Market.js",
+		"/C/inetpub/ext js/testMenuForYour/j/MenuForYour/model/menuModel.js",
+		"/C/inetpub/ext js/timetobe/j/exgods2/app/view/fucina/Fucina.js",
+		"/C/inetpub/ext js/timetobe/j/exgods2/app/view/market/MyItems.js",
+		"/C/inetpub/ext js/timetobe/с/exgods2-all.css",
+		"/C/inetpub/ext js/timetobe/с/exgods/reset.css",
+		"/C/inetpub/ext js/testFirstEx/app/controller/baseCntr.js",
+		"/C/inetpub/ext js/testMenuForYour/j/MenuForYour/model/FileShow.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\inetpub\\ext js\\EstelAdoni",
+			"C:\\inetpub\\ext js\\timetobe\\j\\exgods2",
+			"C:\\inetpub\\ext js\\timetobe",
+			"C:\\inetpub\\ext js\\timetobe\\j\\exgods2,C:\\inetpub\\ext js\\timetobe\\j\\exgodscore",
+			"C:\\inetpub\\ext js\\testProject3",
+			"C:\\inetpub\\ext js\\testFirstEx"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"countTime",
+			"mergedAssets",
+			"home_index_view",
+			"CountFields",
+			"path",
+			"drawDataMap",
+			"timeLinePoints",
+			"MapView",
+			"map",
+			"inputFileId",
+			"no-image-image",
+			"wi",
+			"widht",
+			"loomoon_text_field",
+			"*/",
+			"MenuForYour",
+			"$(this)",
+			"dtStore",
+			"last_name",
+			"last",
+			"first",
+			"updateFilters",
+			"setTypeItemFilter",
+			"setFilter",
+			"updateFilters",
+			"findBy(",
+			"setPreview",
+			"imagefield",
+			"TopPanelNavigation",
+			"initSearchField",
+			"topPanelNavigation",
+			"Window1",
+			".window1",
+			"this",
+			">\n",
+			"specialdealitem",
+			"widget.specialdealitem",
+			"ExGods.view.special_deal.Item",
+			"tpl",
+			"deal-big-image-border",
+			"x-component-exgods",
+			"paper-bl",
+			"tpl",
+			"deal-big-image-border",
+			"mainPanel",
+			"belongsTo",
+			"secondElPanel",
+			"анкор",
+			"tpl for=",
+			"FormAddNewImg",
+			"isMobile"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 845,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								800,
+								800
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "j/GeoScanecks/controller/GeoScanecks.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3106,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1152,
+								1152
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 585.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "j/app.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 233,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "j/GeoScanecks/model/GeoModel.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 288,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								284,
+								284
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "j/GeoScanecks/model/TimeLineModel.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 275,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								271,
+								271
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "j/GeoScanecks/store/GeoStore.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 287,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "j/GeoScanecks/store/TimelineStore.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 721,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								657,
+								657
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "j/GeoScanecks/project.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 243,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "j/GeoScanecks/view/MapView.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1173,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								244,
+								244
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "j/GeoScanecks/view/TimeLine.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1903,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								765,
+								765
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 135.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "j/GeoScanecks/view/window1.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 174,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								126,
+								133
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "geo.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"marketmyitems",
+				"timetobe\\j\\exgods2\\app\\view\\market\\MyItems.js"
+			],
+			[
+				"menuforyourcontainer",
+				"testMenuForYour\\j\\MenuForYour\\view\\container.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 350.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

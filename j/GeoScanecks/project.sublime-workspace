@@ -1,0 +1,465 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"inline",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/inetpub/ext js/testMenuForYour/j/app.js",
+			"settings":
+			{
+				"buffer_size": 934,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Ext.define('MenuForYour.controller.MenuForYour', {\n	extend: 'Ext.app.Controller',\n \n	id: 'mainController',\n\n\n	views: [\n		'container',\n		//	'topPanelNavigation',\n		//	'table',\n		//	'formAdd'\n	],\n	/*\n	 */\n\n	stores: [\n		//	'menuStore'\n	],\n\n\n	models: [\n		//	'menuModel'\n	],\n\n	/*\n	 */\n	/*\n		deleteImgFromStorage: function(idNumber) {\n			// Добавление элемента в хранилище\n			var dtStore = imagelib.Application.Globals.storeAr[0];\n\n			var el2 = dtStore.getAt(idNumber - 1);\n			dtStore.remove(el2);\n			dtStore.sync();\n\n			// обновление \n			imagelib.Application.Globals.viewBoxItem.refresh();\n			imagelib.Application.Globals.viewListItem.refresh();\n		},\n		*/\n\n	init: function() {\n\n		var me = this;\n\n		debugger\n\n		me.control({\n\n			'#dataviewBox': {\n				itemclick: me.onBoxImageClick\n			},\n			'#dataviewBox': {\n				itemmouseenter: me.onBoxImageMouseEnter,\n				itemmouseleave: me.onBoxImageMouseLeave,\n				itemclick: me.onBoxImageClick\n			}\n		});\n\n		var cmp = Ext.widget('menuForYourContainer', {\n			autoShow: false,\n			config: {\n\n			}\n		});\n\n		cmp.show();\n\n	}\n\n});",
+			"file": "controller/menuForYour.js",
+			"file_size": 1162,
+			"file_write_time": 131052601319101562,
+			"settings":
+			{
+				"buffer_size": 1054,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "view/container.js",
+			"settings":
+			{
+				"buffer_size": 1447,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/inetpub/ext js/testFirstEx/app.js",
+			"settings":
+			{
+				"buffer_size": 313,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/inetpub/ext js/testFirstEx/app/controller/baseCntr.js",
+			"settings":
+			{
+				"buffer_size": 12607,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/inetpub/ext js/testMenuForYour",
+		"/C/inetpub/ext js/testMenuForYour/j",
+		"/C/inetpub/ext js/testMenuForYour/j/menuForYour",
+		"/C/inetpub/ext js/testMenuForYour/j/menuForYour/controller",
+		"/C/inetpub/ext js/testMenuForYour/j/menuForYour/view",
+		"/C/inetpub/ext js/timetobe/j",
+		"/C/inetpub/ext js/timetobe/j/exgods2",
+		"/C/inetpub/ext js/timetobe/j/exgods2/app",
+		"/C/inetpub/ext js/timetobe/j/exgods2/app/view",
+		"/C/inetpub/ext js/timetobe/j/exgods2/app/view/market",
+		"/C/inetpub/ext js/testFirstEx",
+		"/C/inetpub/ext js/testFirstEx/app",
+		"/C/inetpub/ext js/testFirstEx/app/controller"
+	],
+	"file_history":
+	[
+		"/C/Users/дима/AppData/Roaming/Sublime Text 3/Packages/User/Default.sublime-theme",
+		"/C/inetpub/ext js/testMenuForYour/index.html",
+		"/C/inetpub/ext js/testMenuForYour/j/app.js",
+		"/C/inetpub/ext js/testMenuForYour/j/menuForYour/controller/menuForYour.js",
+		"/C/inetpub/ext js/timetobe/j/exgodscore/app.js",
+		"/C/inetpub/ext js/testMenuForYour/j/controller/menuForYour.js",
+		"/C/inetpub/ext js/testMenuForYour/app.js",
+		"/C/inetpub/ext js/timetobe/j/exgods2/app/view/bank/Presets.js",
+		"/C/Users/дима/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/C/inetpub/ext js/testFirstEx/app/controller/baseCntr.js",
+		"/C/inetpub/ext js/timetobe/j/exgods2/app/view/notice/Notice.js",
+		"/C/inetpub/ext js/timetobe/j/exgods2/app/view/social/socialVoting/Vote.js",
+		"/C/inetpub/ext js/testFirstEx/styles/style.css",
+		"/C/inetpub/ext js/testMenuForYour/app/controller/ImagesCtr.js",
+		"/C/inetpub/ext js/testFirstEx/index.html",
+		"/C/inetpub/ext js/timetobe/j/exgods2/app/controller/CSS.js",
+		"/C/inetpub/ext js/testFirstEx/app/view/mainPanel.js",
+		"/C/inetpub/ext js/testProject3/app/model/FileShow.js",
+		"/C/inetpub/ext js/timetobe/j/exgods2/app/controller/SpecialDeal.js",
+		"/C/inetpub/ext js/timetobe/j/exgods2/app/controller/Services.js",
+		"/C/inetpub/ext js/timetobe/j/exgods2/app/view/special_deal/Item.js",
+		"/C/inetpub/ext js/timetobe/j/exgods2/app/view/special_deal/List.js",
+		"/C/inetpub/ext js/testFirstEx/app/view/baseWindow.js",
+		"/C/inetpub/ext js/testFirstEx/app/view/BaseForm.js",
+		"/C/inetpub/ext js/testProject3/app/view/WindowAddImg.js",
+		"/C/inetpub/ext js/testFirstEx/app.js",
+		"/C/inetpub/ext js/testFirstEx/app/controller/baseCntrlr.js",
+		"/C/inetpub/ext js/testFirstEx/app/model/FileShow.js",
+		"/C/inetpub/ext js/testFirstEx/app/store/imagesStore.js",
+		"/C/inetpub/ext js/testFirstEx/app/controller/base.js",
+		"/C/inetpub/ext js/testFirstEx/app/view/mainWindow.js",
+		"/C/inetpub/ext js/testProject3/app/controller/ImagesCtr.js",
+		"/C/inetpub/ext js/testProject3/app/controller/baseCntrl.js",
+		"/C/inetpub/ext js/testFirstEx/app/view/BaseWindow.js",
+		"/C/inetpub/ext js/testProject3/app/view/Tabpanel.js",
+		"/C/inetpub/ext js/testProject3/app/store/imagesStore.js",
+		"/C/inetpub/ext js/testProject3/app.js",
+		"/C/inetpub/ext js/timetobe/j/exgods2/app.js",
+		"/C/inetpub/ext js/testProject3/index.html",
+		"/C/inetpub/ext js/testProject3/app/view/tabpanel.js",
+		"/C/inetpub/ext js/testProject3/app/view/FormAddNewImg.js",
+		"/C/inetpub/ext js/ext-4.2.1.883/resources/ext-theme-classic/ext-theme-classic-all-debug.css",
+		"/C/inetpub/ext js/app.js",
+		"/C/inetpub/ext js/index.html",
+		"/C/inetpub/ext js/testProject2/app.js",
+		"/C/inetpub/ext js/testProject3/ссылки.txt",
+		"/C/inetpub/ext js/testProject2/index.html",
+		"/C/inetpub/ext js/testProject3/styles/style.css",
+		"/C/inetpub/ext js/testProject2/app/model/model.js",
+		"/C/inetpub/ext js/testProject2/app/store/store.js",
+		"/C/inetpub/ext js/testProject2/app/view/view.js",
+		"/C/inetpub/ext js/testProject2/app/data/data.js",
+		"/C/inetpub/ext js/testProject2/app/controller/controller.js",
+		"/C/Users/дима/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\inetpub\\ext js\\timetobe\\j\\exgods2,C:\\inetpub\\ext js\\timetobe\\j\\exgodscore",
+			"C:\\inetpub\\ext js\\testProject3",
+			"C:\\inetpub\\ext js\\testFirstEx"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"this",
+			">\n",
+			"specialdealitem",
+			"widget.specialdealitem",
+			"ExGods.view.special_deal.Item",
+			"tpl",
+			"deal-big-image-border",
+			"x-component-exgods",
+			"paper-bl",
+			"tpl",
+			"deal-big-image-border",
+			"mainPanel",
+			"belongsTo",
+			"secondElPanel",
+			"анкор",
+			"tpl for=",
+			"FormAddNewImg",
+			"isMobile"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/inetpub/ext js/testMenuForYour/j/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 934,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								359,
+								359
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "controller/menuForYour.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1054,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								35,
+								46
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "view/container.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1447,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								23,
+								23
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/inetpub/ext js/testFirstEx/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 313,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								313,
+								313
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/inetpub/ext js/testFirstEx/app/controller/baseCntr.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 12607,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								258,
+								261
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 350.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
